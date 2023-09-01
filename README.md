@@ -1,46 +1,21 @@
-# Shaik-Mahammad-Yaseen
-
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Shaik Mahammad Yaseen
-=============================================================================================================================================
-
-Working as a Graduate Engineer Trainee at LTI Mindtree in Cloud Track Learning. Now currently Learning various important technologies that are essential in the field of cloud computing. These includes Java, SQL, AWS, Linux and Operating systems.
-
-* 🌍  I'm based in India
-* ✉️  You can contact me at [mahammadyaseen51449@gmail.com](mailto:mahammadyaseen51449@gmail.com)
-* 🧠  I'm learning Cloud Based Technology
-* 🤝  I'm open to collaborating on Interesting Projects
-* ⚡  Ready to learn New things
-
-<a href="https://www.github.com/YASEEN51449" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/YASEEN51449?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-
-### Skills
+# 💫 About Me:
+Hello! I'm Shaik Mahammad Yaseen, an aspiring Electrical and Electronics Engineer with a passion for technology and innovation. I am currently pursuing my bachelor's degree at Madanapalle Institute of Technology and Science, specializing in electrical engineering.<br>My journey in the world of technology has been a fascinating one, marked by diverse experiences and a thirst for knowledge. As a Salesforce intern at SmartBridge Educational Services, I'm immersed in learning CRM concepts, Apex programming, and process automation. My recent virtual internship at Cisco equipped me with valuable networking skills using tools like Packet Tracer.<br>During my tenure as a Graduate Engineer Trainee at Lti Mindtree, I delved into cloud computing technologies, including Java, SQL, AWS, Linux, Docker, Kubernetes, and operating systems.<br>I'm not just limited to the tech world; I'm also passionate about web development, having created an Amazon-inspired e-commerce prototype and worked on real-time power quality disturbance detection in electrical systems.<br>My skills encompass Python, HTML, CSS, JavaScript, MySQL, basic shell scripting, and Git. I hold certifications in Python and Java from HackerRank, and I've completed online courses in Python and cloud computing from Coursera.<br>In addition to my technical pursuits, I'm a published author in the field of electrical engineering, with a paper titled "Identification of Power Quality Disturbances in Electrical Systems – A Signal Processing Approach" published in Ijraset.<br>I'm always eager to explore new horizons, solve challenging problems, and collaborate with fellow tech enthusiasts. Feel free to connect with me, and let's embark on exciting technological endeavors together!
 
 
-<p align="left">
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-</p>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mahammad-yaseen/) 
 
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=YASEEN51449&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=YASEEN51449&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=YASEEN51449&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### Socials
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=YASEEN51449&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-<p align="left"> <a href="https://www.github.com/YASEEN51449" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/mahammad-yaseen/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+---
+[![](https://visitcount.itsvg.in/api?id=YASEEN51449&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/YASEEN51449"><img src="https://github-readme-stats.vercel.app/api?username=YASEEN51449&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="YASEEN51449's GitHub stats" /></a>
-
-<a href="http://www.github.com/YASEEN51449"><img src="https://github-readme-streak-stats.herokuapp.com/?user=YASEEN51449&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/YASEEN51449"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=YASEEN51449&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/YASEEN51449" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YASEEN51449&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
