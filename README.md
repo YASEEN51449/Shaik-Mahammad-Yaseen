@@ -16,6 +16,7 @@ Hello! I'm Shaik Mahammad Yaseen, an aspiring Electrical and Electronics Enginee
 ![](https://github-profile-trophy.vercel.app/?username=YASEEN51449&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=YASEEN51449&icon=0&color=0)](https://visitcount.itsvg.in)
+# [![](https://visitcount.itsvg.in/api?id=YASEEN51449&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Yaseen51449&label=Profile%20Views&color=4&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
